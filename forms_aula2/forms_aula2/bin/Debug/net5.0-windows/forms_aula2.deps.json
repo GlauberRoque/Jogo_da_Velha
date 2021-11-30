@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "forms_aula2/1.0.0": {
+        "runtime": {
+          "forms_aula2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "forms_aula2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
